@@ -10,7 +10,7 @@ let phyInputRef= useRef();
 let chemInputRef= useRef();
    let resultParaRef=useRef(); 
    let a=200;
-   console.log(course;)
+   console.log(course);
 
   return (
     <div>
