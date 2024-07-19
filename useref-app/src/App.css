@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  width: 50%;
+  background-color: bisque;
+  display: inline-block;
+  border: 2px solid black;
+padding: 20px;
+margin: 20px;
+}
+.label{
+  display: inline-block;
+  width: 100px;
+ margin: 10px;
+}
